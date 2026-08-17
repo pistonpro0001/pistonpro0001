@@ -1,6 +1,6 @@
 ## Welcome to my profile! 👋
 
-I am an aspiring young coder trying hard to learn every programming language, so far having only really known 4. The language I use most is Python, next to HTML. I currently have 4 repositories, although that is subject to change. Two of the four are private, and they are used for my two websites. Check them out [here](thesteamynoodlebowl.netlify.app) and [here](mcmsfootloose.netlify.app)!
+I am an aspiring young coder trying hard to learn every programming language, so far having only really known 4. The language I use most is Python, next to HTML. I currently have 4 repositories, although that is subject to change. Two of the four are private, and they are used for my two websites. Check them out [here](https://thesteamynoodlebowl.netlify.app) and [here](https://mcmsfootloose.netlify.app)!
 
 *In case you were wondering, these websites do serve a purpose. Let's just say that I made them for two classes.*
 
